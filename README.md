@@ -4,7 +4,7 @@
 
 Audit technical, on-page, and AI-search SEO for pages, sites, and content. Use when the user asks for `/seo-audit`, `/ai-seo`, SEO review, keyword targeting, heading structure, metadata, internal linking, content gaps, AEO, GEO, LLMO, or competitor SEO comparisons.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `seo-audit`
 
 ## Install
